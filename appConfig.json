@@ -1,0 +1,106 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "title": "Carbon and its Compounds",
+      "subject": "Chemistry",
+      "color": "#2E7D32",
+      "driveURL": "https://drive.google.com/file/d/1-vIW47j6C51aUj6HkGxqUBhnx4NiBH4L/view?usp=drive_link",
+      "class": "10",
+      "type": "pdf"
+    },
+    {
+      "id": 2,
+      "title": "Acids, Bases and Salts – Top Questions",
+      "subject": "Chemistry",
+      "color": "#2E7D32",
+      "driveURL": "https://drive.google.com/file/d/1zm9e5rdYfMUBw8YHGDTWZwrmgpdjcn8a/view?usp=drive_link",
+      "class": "10",
+      "type": "pdf"
+    },
+    {
+      "id": 3,
+      "title": "Metals and Nonmetals – Top Questions",
+      "subject": "Chemistry",
+      "color": "#2E7D32",
+      "driveURL": "https://drive.google.com/file/d/1AdeT87KzrRy4-fDBbjjxOPIOlnSzRMAM/view?usp=drive_link",
+      "class": "10",
+      "type": "pdf"
+    },
+    {
+      "id": 4,
+      "title": "Chemical Equations and Reactions – Top Questions",
+      "subject": "Chemistry",
+      "color": "#2E7D32",
+      "driveURL": "https://drive.google.com/file/d/15ic8EUK5TD75P7WCqO-axd3-EBpIii9d/view?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 5,
+      "title": "Formula Book",
+      "subject": "General",
+      "color": "#455A64",
+      "driveURL": "https://drive.google.com/file/d/1O8p6eRJ1K-GAQfa0njIv8_d233aEdlCc/view?usp=drive_link",
+      "class": "10",
+      "type": "pdf"
+    },
+    {
+      "id": 6,
+      "title": "Top 100 Questions – Set 1",
+      "subject": "Mathematics",
+      "color": "#1565C0",
+      "driveURL": "https://drive.google.com/file/d/1f0UXVTiSqC5_pr3ExZSgmcHceVjNtzVM/view?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 7,
+      "title": "Top 100 Questions",
+      "subject": "Mathematics",
+      "color": "#1565C0",
+      "driveURL": "https://drive.google.com/file/d/1iQUBfMYxi0GiLBEvweM_ejdUAfdZPeAE/view?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 8,
+      "title": "Chapter 9: Force and Laws of Motion",
+      "subject": "Physics",
+      "color": "#E65100",
+      "driveURL": "https://docs.google.com/presentation/d/1-joLYxtt_378pm2oNe_5yozbMYT4uxmR/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
+      "class": "10",
+      "type": "pptx"
+    },
+    {
+      "id": 9,
+      "title": "Chapter 10: Light – Reflection and Refraction (Lecture 11)",
+      "subject": "Physics",
+      "color": "#E65100",
+      "driveURL": "https://docs.google.com/presentation/d/1geYNn8xev6WhjP0RGnpKyCLk7-NUWmvN/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
+      "class": "10",
+      "type": "pptx"
+    },
+    {
+      "id": 10,
+      "title": "Triangles – Lecture 1 (PPTX)",
+      "subject": "Mathematics",
+      "color": "#1565C0",
+      "driveURL": "https://docs.google.com/presentation/d/1jvr0xUOHLzGafG8_fzzi_HA2dqGmmldn/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
+      "class": "10",
+      "type": "pptx"
+    },
+    {
+      "id": 11,
+      "title": "Triangles – Lecture 2 (PPTX)",
+      "subject": "Mathematics",
+      "color": "#1565C0",
+      "driveURL": "https://docs.google.com/presentation/d/1qu2FP_O9ixXcemIfOnOOK-h4dM35keK6/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
+      "class": "10",
+      "type": "pptx"
+    }
+  ]
+}
