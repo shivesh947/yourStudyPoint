@@ -1,18 +1,37 @@
 {
   "book": [
+     {
+      "id": -1,
+      "title": "Polynomial",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1fFfnJgONiW9dliHgUKEVu3iqly4k6I0z/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+     {
+      "id": 0,
+      "title": "Real NumberP",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1heggC0ZQQ8sQfILkYDOq2AScFhDI9MGk/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
     {
       "id": 1,
       "title": "English grammar power pack",
       "subject": "English grammar",
       "color": "#1565C0",
       "driveURL": "https://drive.google.com/file/d/1AvizZkt1MePJVZh--wIlJ8XN0zjjtuu-/preview?usp=drive_link",
-      "class": "10",
       "type": "pdf",
       "tag": "New"
     },
     {
       "id": 2,
-      "title": "arithmetic progression - AP",
+      "title": "Arithmetic progression - AP",
       "subject": "Mathematics",
       "color": "#8E24AA",
       "driveURL": "https://drive.google.com/file/d/1c0_vQF4MFMTFCOoUSLJYNp5vFuusL4Z2/preview?usp=drive_link",
