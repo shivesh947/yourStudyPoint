@@ -7,7 +7,8 @@
       "color": "#388E3C",
       "class": "7",
       "type": "pdf",
-      "driveURL":"https://drive.google.com/file/d/1SGt8lG0TBFqVaQsHAJE05vGBHXD0Tovn/preview?usp=drive_link"
+      "driveURL": "https://drive.google.com/file/d/1SGt8lG0TBFqVaQsHAJE05vGBHXD0Tovn/preview?usp=drive_link",
+      "tag": ""
     },
     {
       "id": 1,
@@ -16,7 +17,8 @@
       "color": "#388E3C",
       "class": "7",
       "type": "pdf",
-      "driveURL":"https://drive.google.com/file/d/1SGt8lG0TBFqVaQsHAJE05vGBHXD0Tovn/preview?usp=drive_link"
+      "driveURL": "https://drive.google.com/file/d/1SGt8lG0TBFqVaQsHAJE05vGBHXD0Tovn/preview?usp=drive_link",
+      "tag": ""
     },
     {
       "id": 2,
@@ -25,7 +27,8 @@
       "color": "#388E3C",
       "class": "7",
       "type": "pdf",
-      "driveURL":"https://drive.google.com/file/d/1-CT3JLluFvHEx1jV1ur2ZBY51m-2_QhC/preview?usp=drive_link"
+      "driveURL": "https://drive.google.com/file/d/1-CT3JLluFvHEx1jV1ur2ZBY51m-2_QhC/preview?usp=drive_link",
+      "tag": ""
     },
     {
       "id": 3,
@@ -34,7 +37,8 @@
       "color": "#388E3C",
       "class": "7",
       "type": "pdf",
-      "driveURL":"https://drive.google.com/file/d/1XmBQoFC0zQFOy6aNRus9IJWNVsCaa-4a/preview?usp=drive_link"
+      "driveURL": "https://drive.google.com/file/d/1XmBQoFC0zQFOy6aNRus9IJWNVsCaa-4a/preview?usp=drive_link",
+      "tag": ""
     },
     {
       "id": 4,
@@ -43,8 +47,8 @@
       "color": "#388E3C",
       "class": "7",
       "type": "pdf",
-      "driveURL":"https://drive.google.com/file/d/1heggC0ZQQ8sQfILkYDOq2AScFhDI9MGk/preview?usp=drive_link"
-
+      "driveURL": "https://drive.google.com/file/d/1heggC0ZQQ8sQfILkYDOq2AScFhDI9MGk/preview?usp=drive_link",
+      "tag": ""
     },
     {
       "id": 5,
@@ -58,7 +62,7 @@
     },
     {
       "id": 6,
-      "title": "Real NumberP",
+      "title": "Real Numbers",
       "subject": "Mathematics",
       "color": "#8E24AA",
       "driveURL": "https://drive.google.com/file/d/1heggC0ZQQ8sQfILkYDOq2AScFhDI9MGk/preview?usp=drive_link",
@@ -95,6 +99,7 @@
       "type": "pdf",
       "tag": "New"
     },
+
     {
       "id": 10,
       "title": "Area Related to Circles",
@@ -116,7 +121,7 @@
       "tag": "New"
     },
     {
-      "id": 6,
+      "id": 12,
       "title": "Construction",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -126,7 +131,7 @@
       "tag": "New"
     },
     {
-      "id": 7,
+      "id": 13,
       "title": "Coordinate Geometry",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -136,7 +141,7 @@
       "tag": "New"
     },
     {
-      "id": 8,
+      "id": 14,
       "title": "Linear Equations",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -146,7 +151,7 @@
       "tag": "New"
     },
     {
-      "id": 9,
+      "id": 15,
       "title": "Probability",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -156,7 +161,7 @@
       "tag": "New"
     },
     {
-      "id": 10,
+      "id": 16,
       "title": "Quadratic Equations",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -165,8 +170,9 @@
       "type": "pdf",
       "tag": "New"
     },
+
     {
-      "id": 11,
+      "id": 17,
       "title": "Chemical Reactions and Equations",
       "subject": "Chemistry",
       "color": "#2E7D32",
@@ -176,7 +182,7 @@
       "tag": "New"
     },
     {
-      "id": 12,
+      "id": 18,
       "title": "Statics",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -186,7 +192,7 @@
       "tag": "New"
     },
     {
-      "id": 13,
+      "id": 19,
       "title": "Surface Area and Volumes",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -196,7 +202,7 @@
       "tag": "New"
     },
     {
-      "id": 14,
+      "id": 20,
       "title": "Triangles",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -205,125 +211,36 @@
       "type": "pdf",
       "tag": "New"
     },
+
     {
-      "id": 15,
+      "id": 21,
       "title": "Carbon and its Compounds",
       "subject": "Chemistry",
       "color": "#2E7D32",
       "driveURL": "https://drive.google.com/file/d/1-vIW47j6C51aUj6HkGxqUBhnx4NiBH4L/preview?usp=drive_link",
       "class": "10",
-      "type": "pdf"
+      "type": "pdf",
+      "tag": ""
     },
     {
-      "id": 16,
+      "id": 22,
       "title": "Acids, Bases and Salts – Top Questions",
       "subject": "Chemistry",
       "color": "#2E7D32",
       "driveURL": "https://drive.google.com/file/d/1zm9e5rdYfMUBw8YHGDTWZwrmgpdjcn8a/preview?usp=drive_link",
       "class": "10",
-      "type": "pdf"
+      "type": "pdf",
+      "tag": ""
     },
     {
-      "id": 17,
+      "id": 23,
       "title": "Metals and Nonmetals – Top Questions",
       "subject": "Chemistry",
       "color": "#2E7D32",
       "driveURL": "https://drive.google.com/file/d/1AdeT87KzrRy4-fDBbjjxOPIOlnSzRMAM/preview?usp=drive_link",
       "class": "10",
-      "type": "pdf"
-    },
-    {
-      "id": 18,
-      "title": "Chemical Equations and Reactions – Top Questions",
-      "subject": "Chemistry",
-      "color": "#2E7D32",
-      "driveURL": "https://drive.google.com/file/d/15ic8EUK5TD75P7WCqO-axd3-EBpIii9d/preview?usp=drive_link",
-      "class": "10",
       "type": "pdf",
-      "tag": "New"
-    },
-    {
-      "id": 19,
-      "title": "Formula Book",
-      "subject": "General",
-      "color": "#455A64",
-      "driveURL": "https://drive.google.com/file/d/1O8p6eRJ1K-GAQfa0njIv8_d233aEdlCc/preview?usp=drive_link",
-      "class": "10",
-      "type": "pdf"
-    },
-    {
-      "id": 20,
-      "title": "Top 100 Questions – Set 1",
-      "subject": "Mathematics",
-      "color": "#8E24AA",
-      "driveURL": "https://drive.google.com/file/d/1f0UXVTiSqC5_pr3ExZSgmcHceVjNtzVM/preview?usp=drive_link",
-      "class": "10",
-      "type": "pdf",
-      "tag": "New"
-    },
-    {
-      "id": 21,
-      "title": "Top 100 Questions",
-      "subject": "Mathematics",
-      "color": "#8E24AA",
-      "driveURL": "https://drive.google.com/file/d/1iQUBfMYxi0GiLBEvweM_ejdUAfdZPeAE/preview?usp=drive_link",
-      "class": "10",
-      "type": "pdf",
-      "tag": "New"
-    },
-    {
-      "id": 22,
-      "title": "Chapter 9: Force and Laws of Motion",
-      "subject": "Physics",
-      "color": "#E65100",
-      "driveURL": "https://docs.google.com/presentation/d/1-joLYxtt_378pm2oNe_5yozbMYT4uxmR/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
-      "class": "10",
-      "type": "pptx"
-    },
-    {
-      "id": 23,
-      "title": "Chapter 10: Light – Reflection and Refraction (Lecture 11)",
-      "subject": "Physics",
-      "color": "#E65100",
-      "driveURL": "https://docs.google.com/presentation/d/1geYNn8xev6WhjP0RGnpKyCLk7-NUWmvN/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
-      "class": "10",
-      "type": "pptx"
-    },
-    {
-      "id": 24,
-      "title": "Triangles – Lecture 1 (PPTX)",
-      "subject": "Mathematics",
-      "color": "#8E24AA",
-      "driveURL": "https://docs.google.com/presentation/d/1jvr0xUOHLzGafG8_fzzi_HA2dqGmmldn/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
-      "class": "10",
-      "type": "pptx"
-    },
-    {
-      "id": 25,
-      "title": "Triangles – Lecture 2 (PPTX)",
-      "subject": "Mathematics",
-      "color": "#8E24AA",
-      "driveURL": "https://docs.google.com/presentation/d/1qu2FP_O9ixXcemIfOnOOK-h4dM35keK6/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
-      "class": "10",
-      "type": "pptx"
-    },
-    {
-      "id": 26,
-      "title": "Direct Indirect – Rules",
-      "subject": "English grammar",
-      "color": "#1565C0",
-      "driveURL": "https://drive.google.com/file/d/1EQFIIHHL541VThh7ec9Ir9QNP8vqdKLD/preview?usp=drive_link",
-      "type": "pdf",
-      "tag": "New"
-    },
-    {
-      "id": 27,
-      "title": "Active passive – Rules",
-      "subject": "English grammar",
-      "color": "#1565C0",
-      "driveURL": "https://drive.google.com/file/d/1taSw7xzZdaDsJ6mEM7utBBHCPzOcf1yN/preview?usp=drive_link",
-      "type": "pdf",
-      "tag": "New"
+      "tag": ""
     }
   ]
 }
