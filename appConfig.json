@@ -2,6 +2,146 @@
   "book": [
     {
       "id": 1,
+      "title": "English grammar power pack",
+      "subject": "English grammar",
+      "color": "#1565C0",
+      "driveURL": "https://drive.google.com/file/d/1AvizZkt1MePJVZh--wIlJ8XN0zjjtuu-/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 2,
+      "title": "arithmetic progression - AP",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1c0_vQF4MFMTFCOoUSLJYNp5vFuusL4Z2/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 3,
+      "title": "Some Applications of Trigonometry",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1oI-EBUexpJnmYynb2RwvU3GmzgOJ2KQH/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 4,
+      "title": "Area Related to Circles",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1KQaA_SxioChJFGZwyXHzOoY704jgXw9D/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 5,
+      "title": "Circles",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1WnF3kZWVDYLbZr2I89HLnO8Iykuq1JMy/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 6,
+      "title": "Construction",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1nvDqcrNZYRFyjQF8_dnsqx2xHkJV9isa/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 7,
+      "title": "Coordinate Geometry",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1_4blJomg5Th02AaSMDHDzER8Kq8EXGK6/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 8,
+      "title": "Linear Equations",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1RasbUDQBsVAYOSyfAWlZjeRgb9fSVT2L/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 9,
+      "title": "Probability",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1RMmcVqp-6CG2h4ZOd8rV5JzCSe7LrIRw/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 10,
+      "title": "Quadratic Equations",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1LA0vAvQ0ySCMbpF2qEPR3iBkwuNRHKBu/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 11,
+      "title": "Chemical Reactions and Equations",
+      "subject": "Chemistry",
+      "color": "#2E7D32",
+      "driveURL": "https://drive.google.com/file/d/1GVlILDgqGEVmWWKRoIj36hmlhIUBjrDA/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 12,
+      "title": "Statics",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1f80RB4T7GaH0e3ehhcTlZkJ31f1HoX70/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 13,
+      "title": "Surface Area and Volumes",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1l_GMMEyDJr5wdj6jKL-50ljqkkXZkU3a/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 14,
+      "title": "Triangles",
+      "subject": "Mathematics",
+      "color": "#8E24AA",
+      "driveURL": "https://drive.google.com/file/d/1MmqDA8nrfjuD3rVtYM79p-EIo79_8oDO/preview?usp=drive_link",
+      "class": "10",
+      "type": "pdf",
+      "tag": "New"
+    },
+    {
+      "id": 15,
       "title": "Carbon and its Compounds",
       "subject": "Chemistry",
       "color": "#2E7D32",
@@ -10,7 +150,7 @@
       "type": "pdf"
     },
     {
-      "id": 2,
+      "id": 16,
       "title": "Acids, Bases and Salts – Top Questions",
       "subject": "Chemistry",
       "color": "#2E7D32",
@@ -19,7 +159,7 @@
       "type": "pdf"
     },
     {
-      "id": 3,
+      "id": 17,
       "title": "Metals and Nonmetals – Top Questions",
       "subject": "Chemistry",
       "color": "#2E7D32",
@@ -28,7 +168,7 @@
       "type": "pdf"
     },
     {
-      "id": 4,
+      "id": 18,
       "title": "Chemical Equations and Reactions – Top Questions",
       "subject": "Chemistry",
       "color": "#2E7D32",
@@ -38,7 +178,7 @@
       "tag": "New"
     },
     {
-      "id": 5,
+      "id": 19,
       "title": "Formula Book",
       "subject": "General",
       "color": "#455A64",
@@ -47,27 +187,27 @@
       "type": "pdf"
     },
     {
-      "id": 6,
+      "id": 20,
       "title": "Top 100 Questions – Set 1",
       "subject": "Mathematics",
-      "color": "#1565C0",
+      "color": "#8E24AA",
       "driveURL": "https://drive.google.com/file/d/1f0UXVTiSqC5_pr3ExZSgmcHceVjNtzVM/preview?usp=drive_link",
       "class": "10",
       "type": "pdf",
       "tag": "New"
     },
     {
-      "id": 7,
+      "id": 21,
       "title": "Top 100 Questions",
       "subject": "Mathematics",
-      "color": "#1565C0",
+      "color": "#8E24AA",
       "driveURL": "https://drive.google.com/file/d/1iQUBfMYxi0GiLBEvweM_ejdUAfdZPeAE/preview?usp=drive_link",
       "class": "10",
       "type": "pdf",
       "tag": "New"
     },
     {
-      "id": 8,
+      "id": 22,
       "title": "Chapter 9: Force and Laws of Motion",
       "subject": "Physics",
       "color": "#E65100",
@@ -76,7 +216,7 @@
       "type": "pptx"
     },
     {
-      "id": 9,
+      "id": 23,
       "title": "Chapter 10: Light – Reflection and Refraction (Lecture 11)",
       "subject": "Physics",
       "color": "#E65100",
@@ -85,25 +225,25 @@
       "type": "pptx"
     },
     {
-      "id": 10,
+      "id": 24,
       "title": "Triangles – Lecture 1 (PPTX)",
       "subject": "Mathematics",
-      "color": "#1565C0",
+      "color": "#8E24AA",
       "driveURL": "https://docs.google.com/presentation/d/1jvr0xUOHLzGafG8_fzzi_HA2dqGmmldn/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
       "class": "10",
       "type": "pptx"
     },
     {
-      "id": 11,
+      "id": 25,
       "title": "Triangles – Lecture 2 (PPTX)",
       "subject": "Mathematics",
-      "color": "#1565C0",
+      "color": "#8E24AA",
       "driveURL": "https://docs.google.com/presentation/d/1qu2FP_O9ixXcemIfOnOOK-h4dM35keK6/edit?usp=sharing&ouid=110869541017482547352&rtpof=true&sd=true",
       "class": "10",
       "type": "pptx"
     },
     {
-      "id": 12,
+      "id": 26,
       "title": "Direct Indirect – Rules",
       "subject": "English grammar",
       "color": "#1565C0",
@@ -112,7 +252,7 @@
       "tag": "New"
     },
     {
-      "id": 13,
+      "id": 27,
       "title": "Active passive – Rules",
       "subject": "English grammar",
       "color": "#1565C0",
