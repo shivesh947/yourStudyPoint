@@ -1,7 +1,53 @@
 {
   "book": [
-     {
-      "id": -1,
+    {
+      "id": 0,
+      "title": "Integer - Worksheet",
+      "subject": "Mathematics",
+      "color": "#388E3C",
+      "class": "7",
+      "type": "pdf",
+      "driveURL":"https://drive.google.com/file/d/1SGt8lG0TBFqVaQsHAJE05vGBHXD0Tovn/preview?usp=drive_link"
+    },
+    {
+      "id": 1,
+      "title": "Fraction and Decimal - Worksheet",
+      "subject": "Mathematics",
+      "color": "#388E3C",
+      "class": "7",
+      "type": "pdf",
+      "driveURL":"https://drive.google.com/file/d/1SGt8lG0TBFqVaQsHAJE05vGBHXD0Tovn/preview?usp=drive_link"
+    },
+    {
+      "id": 2,
+      "title": "Data handling - Worksheet",
+      "subject": "Mathematics",
+      "color": "#388E3C",
+      "class": "7",
+      "type": "pdf",
+      "driveURL":"https://drive.google.com/file/d/1-CT3JLluFvHEx1jV1ur2ZBY51m-2_QhC/preview?usp=drive_link"
+    },
+    {
+      "id": 3,
+      "title": "Simple equation - Worksheet",
+      "subject": "Mathematics",
+      "color": "#388E3C",
+      "class": "7",
+      "type": "pdf",
+      "driveURL":"https://drive.google.com/file/d/1XmBQoFC0zQFOy6aNRus9IJWNVsCaa-4a/preview?usp=drive_link"
+    },
+    {
+      "id": 4,
+      "title": "Lines and Angles - Worksheet",
+      "subject": "Mathematics",
+      "color": "#388E3C",
+      "class": "7",
+      "type": "pdf",
+      "driveURL":"https://drive.google.com/file/d/1heggC0ZQQ8sQfILkYDOq2AScFhDI9MGk/preview?usp=drive_link"
+
+    },
+    {
+      "id": 5,
       "title": "Polynomial",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -10,8 +56,8 @@
       "type": "pdf",
       "tag": "New"
     },
-     {
-      "id": 0,
+    {
+      "id": 6,
       "title": "Real NumberP",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -21,7 +67,7 @@
       "tag": "New"
     },
     {
-      "id": 1,
+      "id": 7,
       "title": "English grammar power pack",
       "subject": "English grammar",
       "color": "#1565C0",
@@ -30,7 +76,7 @@
       "tag": "New"
     },
     {
-      "id": 2,
+      "id": 8,
       "title": "Arithmetic progression - AP",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -40,7 +86,7 @@
       "tag": "New"
     },
     {
-      "id": 3,
+      "id": 9,
       "title": "Some Applications of Trigonometry",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -50,7 +96,7 @@
       "tag": "New"
     },
     {
-      "id": 4,
+      "id": 10,
       "title": "Area Related to Circles",
       "subject": "Mathematics",
       "color": "#8E24AA",
@@ -60,7 +106,7 @@
       "tag": "New"
     },
     {
-      "id": 5,
+      "id": 11,
       "title": "Circles",
       "subject": "Mathematics",
       "color": "#8E24AA",
