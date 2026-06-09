@@ -604,22 +604,7 @@
       }
    ],
    "worksheet":[
-      {
-         "id":0,
-         "key":"7-Math-Symmetry-worksheet",
-         "title":"Symmetry",
-         "subject":"Mathematics",
-         "color":"#8E24AA",
-         "class":[
-            5,
-            6,
-            7
-         ],
-         "type":"pdf",
-         "driveURL":"https://drive.google.com/file/d/1-82q8r38v8OUEvH3EJagAPZg_yTtIn1F/preview?usp=drive_link",
-         "tag":"",
-         "date":"2026-04-11"
-      }
+     
    ],
    "about":{
       "owner":{
