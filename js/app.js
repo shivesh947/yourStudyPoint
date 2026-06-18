@@ -409,11 +409,8 @@
       .join(' · ');
     $('#viewer-meta').textContent = meta;
 
-    const driveUrl = book.driveURL || '';
-    $('#viewer-external').href = driveUrl.replace('/preview', '/view');
-
     loader.classList.remove('hidden');
-    iframe.src = driveUrl;
+    iframe.src = book.driveURL || '';
     modal.classList.remove('hidden', 'closing');
     document.body.style.overflow = 'hidden';
 

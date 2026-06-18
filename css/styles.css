@@ -228,6 +228,30 @@
   animation: slide-down 0.25s ease forwards;
 }
 
+/* Hide Google Drive pop-out button (cross-origin — mask + clip) */
+.viewer-iframe-wrap {
+  overflow: hidden;
+}
+
+.viewer-iframe {
+  position: absolute;
+  inset: 0;
+  width: calc(100% + 56px);
+  height: 100%;
+  border: 0;
+}
+
+.viewer-popout-mask {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 56px;
+  height: 56px;
+  background: #323232;
+  z-index: 5;
+  pointer-events: auto;
+}
+
 /* ── Filter Tags ── */
 .filter-tag {
   display: inline-flex;
