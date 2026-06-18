@@ -1,0 +1,650 @@
+{
+   "book":[
+      {
+         "id":0,
+         "key":"12-Grammar-Narration",
+         "title":"Narration",
+         "subject":"English grammar",
+         "color":"#1565C0",
+         "class":[
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/131MblCoHBHfqJ_mAEQU7bWYMg23rnKSB/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":1,
+         "key":"12-grammar-voice",
+         "title":"voice",
+         "subject":"English grammar",
+         "color":"#1565C0",
+         "class":[
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1FGq5MGNwjaQTUEMvb5R3UQChVEcGySrx/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":2,
+         "key":"7-Math-Triangle",
+         "title":"Triangle",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1aaQC19VcSRVuU4ocsthvCDFjx8zNR0d4/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":3,
+         "key":"7-Maths-Algebric expressions",
+         "title":"Algebric expressions",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1pNSakKKMREguw69Ny9cn6oW_NqRPKo41/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":4,
+         "key":"7-Maths-Comparing quantities",
+         "title":"Comparing quantities",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/17jOGlrabV1hORCx16s_RgrOWENGWcG3j/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":5,
+         "key":"7-Maths-Congruence of triangle",
+         "title":"Congruence of triangle",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1N6llLp_MvUPd2Gd9KWKI4Najw6byFB1b/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":6,
+         "key":"7-Maths-exponent and Power",
+         "title":"exponent and Power",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1UWzs8i2RqVfZTw_ebxUF5aWxGgybjZPP/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":7,
+         "key":"7-Maths-Practical geometry",
+         "title":"Practical geometry",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1U4_aS0aT8IuQjGrVhy4AXN_6dhmAdjTO/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":8,
+         "key":"7-Maths-Rational no",
+         "title":"Rational no",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1k2iC4yrwe25FZeJIfTGHy5XlfXlrLWc2/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":9,
+         "key":"7-Maths-Solid shapes",
+         "title":"Solid shapes",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1kRwPp89NgL6bGcLoNvnskTBBmF7XAg_J/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":10,
+         "key":"7-Maths-Symmetry",
+         "title":"Symmetry",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/18gmiSUsHR2YzDfCi5U_TBA8cGEEZNrrg/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":11,
+         "key":"7-Maths-Triangle",
+         "title":"Triangle",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1CDYyhyzpRCD590tIap4YtbnzL_0QQXAd/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":12,
+         "key":"10-Biology-Control and coordination",
+         "title":"Control and coordination",
+         "subject":"Biology",
+         "color":"#C2185B",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1sEKXTISUTrO619JdZO_UWdz-mfbnHuzP/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":13,
+         "key":"10-Biology-Heredity",
+         "title":"Heredity",
+         "subject":"Biology",
+         "color":"#C2185B",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1FtuUHfJBc7ZremSm9d6rVJYSmmIKaNxx/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":14,
+         "key":"10-Biology-Importantdiagram",
+         "title":"Importantdiagram",
+         "subject":"Biology",
+         "color":"#C2185B",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1I-t4zrNoXjKxjedjfMMnR9cYUkNHupsv/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":15,
+         "key":"10-Biology-Lifeprocesses",
+         "title":"Lifeprocesses",
+         "subject":"Biology",
+         "color":"#C2185B",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1NVrbGHpFgff3wuZyAmAUJbUeUQWe0WBj/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":16,
+         "key":"10-Maths-Banking",
+         "title":"Banking",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1Qj0lqpUuEyOGTUHieoV92EPnzgPEOCmk/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":17,
+         "key":"10-Maths-Formulabook",
+         "title":"Formulabook",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1KSg85uAfDPk0gowCf-R01rZ1i4e35CHo/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":18,
+         "key":"10-Maths-Gst",
+         "title":"Gst",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1lMnRQHmydz3_ikbxLNdh9RMRdor6e_ug/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":19,
+         "key":"10-Maths-linearequation",
+         "title":"linearequation",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1cW5dCOqubJetbLrcxLaK_z5Sdu8VNG2g/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":20,
+         "key":"10-Maths-shares and dividends",
+         "title":"shares and dividends",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1DO2AaZEbuN3pxYZPnk5rwd5OZ8ST8YL4/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":21,
+         "key":"10-Maths-Top100questions",
+         "title":"Top100questions",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/13XFNRXL9ozrpEjiBwirNAaFePwx5UmUu/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":22,
+         "key":"10-Physics-electricity",
+         "title":"electricity",
+         "subject":"Physics",
+         "color":"#E65100",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1e-YeaeATIL105jNr9f9r6o2QQo_Ez43x/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":23,
+         "key":"10-Physics-Humaneye and colourful world",
+         "title":"Humaneye and colourful world",
+         "subject":"Physics",
+         "color":"#E65100",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1sZf6v75YfGrmJy0YP5bQqloLEjkBohMf/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":24,
+         "key":"10-Physics-Light",
+         "title":"Light",
+         "subject":"Physics",
+         "color":"#E65100",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1ajwpBdFg_mbCCDnYwo57qb25wkCNqoP8/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":25,
+         "key":"10-Physics-Magnetic effect of electric current",
+         "title":"Magnetic effect of electric current",
+         "subject":"Physics",
+         "color":"#E65100",
+         "class":10,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1YFtCAGHPtxi5pxIh4CcW2M45VctZMadc/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":26,
+         "key":"NA-Eng-100 Most Imp Rules of Grammar by Aman Sir",
+         "title":"100 Most Imp Rules of Grammar by Aman Sir",
+         "subject":"English grammar",
+         "color":"#1565C0",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1AvizZkt1MePJVZh--wIlJ8XN0zjjtuu-/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":27,
+         "key":"NA-General-AP (1)",
+         "title":"AP (1)",
+         "subject":"General",
+         "color":"#455A64",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1c0_vQF4MFMTFCOoUSLJYNp5vFuusL4Z2/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":28,
+         "key":"NA-Math-Application of Trigonometry",
+         "title":"Application of Trigonometry",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1oI-EBUexpJnmYynb2RwvU3GmzgOJ2KQH/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":29,
+         "key":"NA-Math-Area Related to circles",
+         "title":"Area Related to circles",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1KQaA_SxioChJFGZwyXHzOoY704jgXw9D/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":30,
+         "key":"NA-Bio-Biology diagram",
+         "title":"Biology diagram",
+         "subject":"Biology",
+         "color":"#C2185B",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1ekmuNnklh0YVfqvjZE1aoekGmbannHIN/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":31,
+         "key":"NA-Chem-CBS💯 of Chemistry (Carbon and it's compound)",
+         "title":"CBS💯 of Chemistry (Carbon and it's compound)",
+         "subject":"Chemistry",
+         "color":"#2E7D32",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1-vIW47j6C51aUj6HkGxqUBhnx4NiBH4L/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":32,
+         "key":"NA-Chem-CBS💯 Questions of Chemistry (acid,based and salt)",
+         "title":"CBS💯 Questions of Chemistry (acid,based and salt)",
+         "subject":"Chemistry",
+         "color":"#2E7D32",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1zm9e5rdYfMUBw8YHGDTWZwrmgpdjcn8a/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":33,
+         "key":"NA-Chem-CBS💯 Questions of Chemistry (Metal and Nonmetals)",
+         "title":"CBS💯 Questions of Chemistry (Metal and Nonmetals)",
+         "subject":"Chemistry",
+         "color":"#2E7D32",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1AdeT87KzrRy4-fDBbjjxOPIOlnSzRMAM/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":34,
+         "key":"NA-Chem-CBS💯Questions of Chemistry (Chemical equations and reactions)",
+         "title":"CBS💯Questions of Chemistry (Chemical equations and reactions)",
+         "subject":"Chemistry",
+         "color":"#2E7D32",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/15ic8EUK5TD75P7WCqO-axd3-EBpIii9d/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":35,
+         "key":"NA-General-9 Force and laws of motion",
+         "title":"9 Force and laws of motion",
+         "subject":"General",
+         "color":"#455A64",
+         "type":"pptx",
+         "driveURL":"https://drive.google.com/file/d/1-joLYxtt_378pm2oNe_5yozbMYT4uxmR/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":36,
+         "key":"NA-General-Chp 10 Light - Reflection and Refraction (Lec-11)",
+         "title":"Chp 10 Light - Reflection and Refraction (Lec-11)",
+         "subject":"General",
+         "color":"#455A64",
+         "type":"pptx",
+         "driveURL":"https://drive.google.com/file/d/1geYNn8xev6WhjP0RGnpKyCLk7-NUWmvN/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":37,
+         "key":"NA-Math-Circle",
+         "title":"Circle",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1WnF3kZWVDYLbZr2I89HLnO8Iykuq1JMy/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":38,
+         "key":"7-Math-Algebric expressions",
+         "title":"Algebric expressions",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1J_vJUAkNsu_OCW-MWYycGxwhpC1mPGd0/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":39,
+         "key":"7-General-1 (Integer)",
+         "title":"1 (Integer)",
+         "subject":"General",
+         "color":"#455A64",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1oFFHNuxU21FmvHpZhk8uhneHmN-RHOtc/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":40,
+         "key":"7-General-2(Fraction and Decimal)",
+         "title":"2(Fraction and Decimal)",
+         "subject":"General",
+         "color":"#455A64",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1SGt8lG0TBFqVaQsHAJE05vGBHXD0Tovn/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":41,
+         "key":"7-General-3(Data handling)",
+         "title":"3(Data handling)",
+         "subject":"General",
+         "color":"#455A64",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1-CT3JLluFvHEx1jV1ur2ZBY51m-2_QhC/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":42,
+         "key":"7-Math-4 ( Simple equation)",
+         "title":"4 ( Simple equation)",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1XmBQoFC0zQFOy6aNRus9IJWNVsCaa-4a/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":43,
+         "key":"7-General-5 ( lines and angles)",
+         "title":"5 ( lines and angles)",
+         "subject":"General",
+         "color":"#455A64",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/19LF4oIAH64EpB-k9IjKNdSQFZrgRQJL-/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":44,
+         "key":"7-General-comparing quantities",
+         "title":"comparing quantities",
+         "subject":"General",
+         "color":"#455A64",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1FLwqCdYscSv45HQrBQnA43SkZh6qEmKf/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":45,
+         "key":"7-General-congruence of triangle",
+         "title":"congruence of triangle",
+         "subject":"General",
+         "color":"#455A64",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/10xXzUkIb_kDpyZQ1SLh9NNNjZ_yROKff/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":46,
+         "key":"7-General-exponent and power",
+         "title":"exponent and power",
+         "subject":"General",
+         "color":"#455A64",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1oZJKA38ZmXdip8CXJjm4F7oshbL1BrW_/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":47,
+         "key":"7-Math-Practical geometry",
+         "title":"Practical geometry",
+         "subject":"Mathematics",
+         "color":"#8E24AA",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1TOoJxyNdJ6EKbErHtONMdsRPRngd_f93/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      },
+      {
+         "id":48,
+         "key":"7-General-Rational number",
+         "title":"Rational number",
+         "subject":"General",
+         "color":"#455A64",
+         "class":7,
+         "type":"pdf",
+         "driveURL":"https://drive.google.com/file/d/1zwQA9l1pJNtP3EINs2SrESlTSo2a-u8H/preview?usp=drive_link",
+         "tag":"",
+         "date":"2026-04-11"
+      }
+   ],
+   "worksheet":[
+     
+   ],
+   "about":{
+      "owner":{
+         "name":"Palak Mishra",
+         "qualification":"M.Sc. Physics"
+      },
+      "location":{
+         "label":"C4/12, Nirala Nagar, near Daliganj, Lucknow",
+         "mapsUrl":"https://maps.app.goo.gl/sYrQRhffbq5XU4FdA"
+      },
+      "contact":{
+         "phone":"7525090601"
+      },
+      "classSections":[
+         {
+            "title":"Class 11 & 12",
+            "subjects":[
+               "Physics",
+               "Chemistry",
+               "Mathematics",
+               "Biology"
+            ]
+         },
+         {
+            "title":"Class 9 & 10",
+            "subjects":[
+               "Grammar (Tenses, Active/Passive, Direct/Indirect)",
+               "Mathematics",
+               "Science (Physics + Chemistry + Biology)"
+            ]
+         },
+         {
+            "title":"Class 6 to 8",
+            "subjects":[
+               "Grammar",
+               "Mathematics",
+               "Science",
+               "Social Studies (History, Geography, Civics)"
+            ]
+         }
+      ]
+   }
+}
